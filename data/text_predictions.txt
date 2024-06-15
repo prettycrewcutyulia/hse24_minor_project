@@ -1,0 +1,54 @@
+genome.fna
+NC_036159.2
+  start     end
+NC_036160.2
+  start     end
+NC_036161.2
+  start     end
+NC_036162.2
+  start     end
+NC_036163.2
+  start     end
+  769829  769843
+NC_036164.2
+  start     end
+  222856  222863
+NC_036165.2
+  start     end
+NC_036166.2
+  start     end
+NC_036167.2
+  start     end
+NC_036168.2
+  start     end
+NC_036169.2
+  start     end
+ 1711674 1711680
+NC_036170.2
+  start     end
+  112772  112779
+  112781  112787
+  558741  558749
+ 1444226 1444245
+ 1637682 1637700
+NC_036171.2
+  start     end
+  193374  193380
+ 1393218 1393231
+ 1718984 1718993
+NC_036172.2
+  start     end
+NW_023259977.1
+  start     end
+NW_023259978.1
+  start     end
+NW_023259979.1
+  start     end
+NW_023259980.1
+  start     end
+NW_023259981.1
+  start     end
+NC_015303.1
+  start     end
+NC_030892.1
+  start     end
